@@ -240,7 +240,7 @@ export const projects = [
         theme: 'btn-back-gray',
         name: 'RISC32I Assembler - Simulator',
         description: 'Built a three-pass assembler and simulator for RISC-V 32I architecture in Python with real-time memory/register visualization.',
-        link: 'https://github.com/COsimulator/COproject',
+        link: 'https://github.com/sarabjeetsingh1708/co-project/tree/main/COproject-main',
     },
     {
         iconUrl: figma,  // Replace with actual icon import
